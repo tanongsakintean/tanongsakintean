@@ -17,8 +17,7 @@ This is my github profile. ☺
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanongsakintean&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanongsakintean&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=tanongsakintean&hide=javascript,html&show_icons=true&theme=radical) -->
-
-<a href="https://app.daily.dev/beer"><img src="https://api.daily.dev/devcards/v2/tF5VolHrg.png?type=default&r=fa5" width="356" alt="Tanongsak Intean's Dev Card"/></a>
+<a href="https://app.daily.dev/beer"><img src="https://api.daily.dev/devcards/v2/tF5VolHrg.png?type=default&r=b1t" width="356" alt="Tanongsak Intean's Dev Card"/></a>
 <!--d <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2> -->
 <!-- <table>
   <tr>
